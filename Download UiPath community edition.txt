@@ -1,0 +1,18 @@
+Download UiPath community edition from chrome
+
+Open the MSI folder in the file explorer
+
+click Quick
+accept the license
+and click install
+
+Launch UI path Studio
+
+link will be opened in the Browser 
+
+Continue with google login
+
+Select country name and state name along with organization name(AIHT)
+click create
+then click open UiPath
+then click continue to open UiPath
