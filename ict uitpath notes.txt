@@ -40,3 +40,5 @@ Activity:
 ---------
 1.click
 2.Type Into
+2.assign
+3.multiple assign
