@@ -36,3 +36,7 @@ Arguments:
 2.Out(out_name)
 3.In/Out(io_name)
 
+Activity:
+---------
+1.click
+2.Type Into
