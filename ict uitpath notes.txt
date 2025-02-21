@@ -1,5 +1,10 @@
 			RPA-UIPATH NOTES
-			****************	
+			****************
+Introduction:
+-------------
+UiPath
+ .attended ->human intervention
+ .unattended -> Fully automated
 day 1
 ======
 1.messagebox
@@ -15,7 +20,7 @@ day 1
 ---------------------------------------------------------
 day2
 =====
-variable types
+variable types:
 ---------------
 1.string
 2.boolean
@@ -24,4 +29,10 @@ variable types
 5.date & time
 5.queue item
 6.data table
+
+Arguments:
+----------
+1.In (in_name)
+2.Out(out_name)
+3.In/Out(io_name)
 
