@@ -1,0 +1,27 @@
+			RPA-UIPATH NOTES
+			****************	
+day 1
+======
+1.messagebox
+2.log message
+3.sequence
+4.input dialogue box
+5.scope
+6.read range
+7.weite range
+8.assign
+9.write line
+10.if
+---------------------------------------------------------
+day2
+=====
+variable types
+---------------
+1.string
+2.boolean
+3.array
+4.number
+5.date & time
+5.queue item
+6.data table
+
