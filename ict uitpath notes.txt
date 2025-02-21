@@ -5,7 +5,7 @@ Introduction:
 UiPath
  .attended ->human intervention
  .unattended -> Fully automated
-day 1
+Day 1
 ======
 1.messagebox
 2.log message
