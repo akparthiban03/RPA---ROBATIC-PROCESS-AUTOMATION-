@@ -42,3 +42,21 @@ Activity:
 2.Type Into
 2.assign
 3.multiple assign
+---------------------------------------------
+Day3
+====
+Input action:
+------------
+1.click
+2.mouse hover
+3.text typing
+4.keyboard shortcuts
+5.clipboard action(paste)
+
+Output action:
+-------------
+1.getting text
+2.finding elements
+3.identifying elements
+4.clipboard action(copy)
+
