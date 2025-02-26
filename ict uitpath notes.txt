@@ -60,3 +60,44 @@ Output action:
 3.identifying elements
 4.clipboard action(copy)
 
+--------------------------------------------
+Day4
+=====
+
+selectors:
+----------
+1.fuzzy selector
+2.window selector
+3.dynamic selector
+4.stict selector
+
+control flow:
+-------------
+1.do while
+2.while
+3.for each
+
+other control flow:
+-------------------
+1.Delay
+2.Break
+3.Assign
+4.continue
+5.parallel
+
+Exception:
+----------
+1.Business Exception
+2.System Exception
+
+Error:
+------
+1.Syntax error
+2.User error
+3.Programming error
+
+exception handler:
+----------
+>try
+>catch
+>finally
